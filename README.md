@@ -6,5 +6,7 @@ After analyzing and visualizing the data, I will make a machine learning model t
 
 The Jupyter Notebooks should be read in this order:
 
-heart_disease_eda (Exploratory Data Analysis)
-heart_disease_model (Machine Learning Model)
+1. heart_disease_eda (Exploratory Data Analysis)
+2. heart_disease_model (Machine Learning Model)
+
+This project is an assignment for Launch Code / Coder Girl's Data Science program.
